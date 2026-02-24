@@ -1,1 +1,1 @@
-![Quiz Home Page](icons/Quiz_Page.png)
+![Quiz Home Page](src/icons/Quiz_Page.png)
